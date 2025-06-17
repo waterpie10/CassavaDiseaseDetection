@@ -1,0 +1,9 @@
+# Requirements for the project
+numpy
+pandas
+scipy
+scikit-learn
+
+# Deep learning libraries
+matplotlib
+jupyterlab
